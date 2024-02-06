@@ -15,3 +15,7 @@ As stated above the main purpose is to provide simple examples of Git repo.
 This is a simple web project. Deployment can be on any web server or any file system.
 
 ## How To Contribute
+
+### Copyright
+
+2023 Git.Training
