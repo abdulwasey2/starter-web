@@ -8,6 +8,10 @@ This example shows different parts of Git repo and various commands using a web 
 
 ## Purpose
 
+As stated above the main purpose is to provide simple examples of Git repo.
+
 ## Deployment
+
+This is a simple web project. Deployment can be on any web server or any file system.
 
 ## How To Contribute
