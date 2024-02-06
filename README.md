@@ -20,4 +20,4 @@ please fork this repo and issue pull request for review.
 
 ### Copyright
 
-2023 Git.Training
+2023 Git.Training All Rights Reserved
